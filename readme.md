@@ -13,15 +13,11 @@ Realize a criação de 3 Sistemas cada um utilizando uma topologia aprendida em 
 
 Topologia | Observação
 ------|------
-Estrela | Utilizar pelo menos 3 PC's e 3 Dispositivos WIFI
+Estrela | Rede comum utilizando PCs e rede WIFI
 Barramento | Rede estática com unico filamento de cabo
 Anel | Rede Utilizando sistema Servidor x Client
 
 ### CONHECIMENTOS GERAIS
 
 [[Em Construção]]
-
-
-
-
 
