@@ -1,19 +1,20 @@
+  <p align="center"><img src="201.png" alt="Logo" width="auto" height="90"></p>
   <p align="center">
-    Feel free to enjoy my github. <a href="https://www.instagram.com/vpokbr/">@Vpokbr </a></figcaption><img src="https://user-images.githubusercontent.com/98386091/156110757-5c99e25c-babd-44f3-8def-351be212305e.png" alt="Logo" width="auto" height="15">
-    <br />
-    <a href="https://discord.gg/r6WMs3M4">Discord</a>
+    Projeto Complementar REDES SMG 2022 - CISCO
   </p>
 
-Please this repository ```Follow for More Content``` to increase the awareness of the project for others to use or add to.
+Selecione ```USE THIS TEMPLATE``` para iniciar o projeto e começar a tarefa, siga as instruções abaixo conforme indicado.
 
-## Python 
+## Lista de Tarefas 
 
-Project | Features | Note
-------|------|------
-<a href="https://github.com/eluvju/beecrowd">Code Challengers Solutions </a> | Beecrowd Solutions | C / C++ / C# / Python / JAVA
-<a href="https://github.com/eluvju/Whatsapp_Group_Manager">Whatsapp Group Manager </a> | Create groups, Add contacts, Remove Person | Selenium
-<a href="https://github.com/eluvju/Nike-monitor">Nike-Monitor </a> | Web Scraping Nike SNKRS, Notify On Telegram via BOT | BS4, Telegram API etc.
-<a href="https://github.com/eluvju/milhas">Milhas Cartão de Crédito </a> | Data Science | Streamlit, Pandas and others..
+Realize a criação de 3 Sistemas cada um utilizando uma topologia aprendida em sala de aula, seguindo critérios especificos com as instruções determinadas.
+
+Topologia | Observação
+------|------
+Estrela | Utilizar pelo menos 3 PC's e 3 Dispositivos WIFI
+Barramento | Rede estática com unico filamento de cabo
+Anel | Rede Utilizando sistema Servidor x Client
+
 
 
 
