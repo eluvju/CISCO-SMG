@@ -3,7 +3,7 @@
     Projeto Complementar REDES SMG 2022 - CISCO
   </p>
 
-Selecione ```USE THIS TEMPLATE``` para iniciar o projeto e começar a tarefa, siga as instruções abaixo conforme indicado.
+Selecione ```USE THIS TEMPLATE``` para iniciar o projeto e começar a tarefa, siga as instruções no AVA para realizar a tarefa.
 
 ## Lista de Tarefas 
 
