@@ -7,6 +7,8 @@ Selecione ```USE THIS TEMPLATE``` para iniciar o projeto e começar a tarefa, si
 
 ## Lista de Tarefas 
 
+### TOPOLOGIAS
+
 Realize a criação de 3 Sistemas cada um utilizando uma topologia aprendida em sala de aula, seguindo critérios especificos com as instruções determinadas.
 
 Topologia | Observação
@@ -14,6 +16,10 @@ Topologia | Observação
 Estrela | Utilizar pelo menos 3 PC's e 3 Dispositivos WIFI
 Barramento | Rede estática com unico filamento de cabo
 Anel | Rede Utilizando sistema Servidor x Client
+
+### CONHECIMENTOS GERAIS
+
+[[Em Construção]]
 
 
 
